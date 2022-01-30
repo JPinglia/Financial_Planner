@@ -30,6 +30,8 @@ d) python-dotenv
 e) alpaca-trade-api
 
 **A MCForecasts Tools python file will be required to allow for Monte Carlo Simulations. File is included in this repo.**
+ 
+*A .env file will be required inorder to run this program. The enviroment file should contain your Alpaca key ID and your secret key. "ALPACA_SECRET_KEY", "ALPACA_API_KEY"*
 
 # Usage
 

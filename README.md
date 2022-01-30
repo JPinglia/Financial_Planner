@@ -21,8 +21,10 @@ The program is written using Jupyter notebooks, for ease of code reading and cod
 
 # Installation Guide
 
-Python 3.7.11 - base installation is required. 
+Python 3.7.11 - base installation is required.
+
 PIP install the following modules:
+
 a) jupyterlab
 b) requests
 c) mcmurray json

@@ -26,9 +26,13 @@ Python 3.7.11 - base installation is required.
 PIP install the following modules:
 
 a) jupyterlab
+
 b) requests
+
 c) mcmurray json
+
 d) python-dotenv
+
 e) alpaca-trade-api
 
 **A MCForecasts Tools python file will be required to allow for Monte Carlo Simulations. File is included in this repo.**
